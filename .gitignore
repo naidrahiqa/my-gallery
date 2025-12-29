@@ -17,3 +17,5 @@ gen/
 out/
 .gradle/
 build/
+
+jdk-17.0.2/
